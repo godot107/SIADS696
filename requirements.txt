@@ -1,0 +1,11 @@
+scikit-learn == 1.3.0
+xlrd
+matplotlib == 3.7.0
+plotly
+altair
+kaleido
+prophet==1.1.5
+shap==0.43.0
+xgboost==2.0.0
+hyperopt==0.2.7
+statsmodels==0.14.0
