@@ -1,0 +1,10 @@
+Websites:
+Zillow Home Value Index - https://www.zillow.com/research/data/
+Environmenta Protection Agency's Smart Location Database - https://catalog.data.gov/dataset/smart-location-database1
+United States Department of Agriculture's Food Access Research Atlas - https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/
+
+
+Direct Download Links:
+Zillow Home Value Index - https://files.zillowstatic.com/research/public_csvs/zhvi/County_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv?t=1698005474
+Environmenta Protection Agency's Smart Location Database - https://edg.epa.gov/EPADataCommons/public/OA/SLD/SmartLocationDatabaseV3.zip
+United States Department of Agriculture's Food Access Research Atlas - https://www.ers.usda.gov/webdocs/DataFiles/80591/2019%20Food%20Access%20Research%20Atlas%20Data.zip?v=9375.8
